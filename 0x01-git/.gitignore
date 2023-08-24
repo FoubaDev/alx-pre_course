@@ -1,0 +1,5 @@
+*~
+```
+
+This rule will match any file ending with `~` and prevent it from being tracked by Git.
+
